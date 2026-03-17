@@ -53,11 +53,3 @@ npm run build
 ```
 
 The output is generated in the `build/` directory. The build will fail on broken links (`onBrokenLinks: "throw"`), so fix any link issues before deploying.
-
-## Contributing
-
-See the [Contributing Guide](https://graytool.dev/development/contributing) for details.
-
-## License
-
-Copyright © Graytool. Built with [Docusaurus](https://docusaurus.io/).
