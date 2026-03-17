@@ -1,0 +1,8 @@
+{
+  "label": "Features",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Button injection, JSON viewer, field detection, and other features."
+  }
+}
