@@ -19,7 +19,7 @@ Graytool'u Chrome tarayıcınıza yüklemenin iki yolu vardır.
 1. **Projeyi klonlayın:**
 
 ```bash
-git clone https://github.com/graytool/graytool.git
+git clone https://github.com/bozkurtemre/graytool.git
 cd graytool
 ```
 

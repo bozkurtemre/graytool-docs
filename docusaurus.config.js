@@ -62,7 +62,7 @@ const config = {
             position: "right",
           },
           {
-            href: "https://github.com/graytool/graytool",
+            href: "https://github.com/bozkurtemre/graytool",
             label: "GitHub",
             position: "right",
           },

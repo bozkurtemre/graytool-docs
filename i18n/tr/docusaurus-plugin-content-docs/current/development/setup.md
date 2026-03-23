@@ -15,7 +15,7 @@ title: Geliştirme Ortamı
 ## Kurulum
 
 ```bash
-git clone https://github.com/graytool/graytool.git
+git clone https://github.com/bozkurtemre/graytool.git
 cd graytool
 npm install
 ```

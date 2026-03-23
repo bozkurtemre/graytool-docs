@@ -19,7 +19,7 @@ There are two ways to install Graytool in your Chrome browser.
 1. **Clone the project:**
 
 ```bash
-git clone https://github.com/graytool/graytool.git
+git clone https://github.com/bozkurtemre/graytool.git
 cd graytool
 ```
 
