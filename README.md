@@ -2,8 +2,6 @@
 
 The official documentation site for **Graytool** — a Chrome extension (Manifest V3) that enhances Graylog log management interfaces.
 
-🌐 **Live site:** [graytool.dev](https://graytool.dev)
-
 ## Getting Started
 
 ```bash
