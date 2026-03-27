@@ -45,4 +45,4 @@ Graytool özellikle şu geliştiriciler için tasarlanmıştır:
 
 ## Versiyon
 
-Mevcut sürüm: **v2.0.2** — Chrome Manifest V3
+Mevcut sürüm: **v2.0.4** — Chrome Manifest V3

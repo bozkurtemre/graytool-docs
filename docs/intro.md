@@ -45,4 +45,4 @@ Graytool is designed especially for:
 
 ## Version
 
-Current version: **v2.0.3** — Chrome Manifest V3
+Current version: **v2.0.4** — Chrome Manifest V3
